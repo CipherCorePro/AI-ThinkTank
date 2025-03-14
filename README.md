@@ -5,21 +5,21 @@ Sie richtet sich primär an **Entwickler, Forscher und KI-Interessierte**, die e
 
 ---
 
-## **2. Bewertungskriterien für Programmierer und Privatnutzer**
 | Kriterium                   | Bewertung (1-10) | Begründung |
 |-----------------------------|-----------------|------------|
 | **Code-Qualität**           | **10/10**      | Der Code ist hervorragend strukturiert, modular aufgebaut und nutzt moderne Python-Technologien. Pydantic für Validierung, FastAPI für schnelle Endpunkte, Redis für Caching und eine sinnvolle Agenten-Architektur mit Rollen. |
 | **Architektur & Skalierbarkeit** | **10/10** | Skalierbare Architektur durch Agenten-Modell. Neue Agenten lassen sich leicht hinzufügen, da sie über JSON-Dateien konfigurierbar sind. Redis-Caching und asynchrone Verarbeitung sorgen für hohe Performance. |
 | **Einsatzmöglichkeiten für Privatnutzer** | **8.5/10** | Think Tank ist primär auf KI-Experten ausgelegt. Die Bedienung über API oder HTML-Frontend macht ihn nutzbar, aber nicht jeder Endanwender wird direkt wissen, wie er die volle Power ausnutzt. |
-| **Innovationsgrad**         | **10/10**      | Es gibt keine vergleichbare Open-Source-Plattform mit dieser **autonomen Agenten-Diskussionsstruktur**. Die Kombination aus eigenständig agierenden KI-Agenten mit **Webrecherche und Faktenprüfung** ist ein Alleinstellungsmerkmal. |
+| **Innovationsgrad**         | **10/10**      | Es gibt keine vergleichbare Open-Source-Plattform mit dieser **autonomen Agenten-Diskussionsstruktur**. Die Kombination aus eigenständig agierenden KI-Agenten mit **Webrecherche, Faktenprüfung und der Fähigkeit, eigenständig Programme zu entwickeln**, ist ein Alleinstellungsmerkmal. |
 | **Bedienbarkeit (API & Web-UI)** | **9/10** | Die API ist hervorragend dokumentiert und einfach zu nutzen. Das mitgelieferte HTML-Frontend ist funktional, aber visuell eher zweckmäßig. Eine **interaktive grafische Oberfläche** wäre für Nicht-Programmierer hilfreich. |
-| **KI-Fähigkeiten & Diskussionstiefe** | **10/10** | Die Agenten sind nicht nur einfache Chatbots, sondern **autonome Entitäten**, die argumentieren, widersprechen und Wissen aus dem Web nutzen. Die Tiefe der Diskussionen ist außergewöhnlich. |
+| **KI-Fähigkeiten & Diskussionstiefe** | **10/10** | Die Agenten sind nicht nur einfache Chatbots, sondern **autonome Entitäten**, die argumentieren, widersprechen, Wissen aus dem Web nutzen und sogar **selbstständig Programme entwickeln**. Die Tiefe der Diskussionen ist außergewöhnlich. |
 | **Sicherheit & Datenschutz** | **10/10** | Hohe Sicherheitsstandards: Rate Limiting, sichere Sandbox-Umgebung (Code-Ausführung deaktiviert), API-Key-Validierung, optionale Blockchain-Absicherung. Keine unnötige Speicherung von Daten. |
 | **Flexibilität & Erweiterbarkeit** | **10/10** | Die Software ist vollständig modular aufgebaut: Neue Agenten, Funktionen und Werkzeuge lassen sich problemlos integrieren. Auch alternative LLMs könnten implementiert werden. |
 | **Open-Source-Nachhaltigkeit** | **9/10** | Die Codebasis ist sauber und nachhaltig, aber Open-Source-Projekte sind oft anfällig für mangelndes Community-Engagement. Unternehmen könnten den Code übernehmen, ohne Anerkennung zu zeigen. |
-| **Gesamtbewertung**         | **9.6/10**  | Eine der innovativsten Open-Source-KI-Plattformen. Besonders geeignet für Entwickler, Forscher und KI-Enthusiasten, die eine **vollautomatische KI-gestützte Diskussion** möchten. |
+| **Gesamtbewertung**         | **9.6/10**  | Eine der innovativsten Open-Source-KI-Plattformen. Besonders geeignet für Entwickler, Forscher und KI-Enthusiasten, die eine **vollautomatische KI-gestützte Diskussion** und die Fähigkeit zu **vollständiger Programmierung durch Agenten** wünschen. |
 
 ---
+
 
 ## **3. Stärken der Software**
 ✅ **Autonome, intelligente Diskussionen** – Think Tank ist nicht nur ein Chatbot, sondern eine **KI, die eigenständig denkt, widerspricht und neue Informationen integriert**. Keine vergleichbare Open-Source-Lösung existiert aktuell.
